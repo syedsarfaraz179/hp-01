@@ -1,0 +1,21 @@
+✅ DDoS Attack (Distributed Denial of Service)
+
+	Meaning: Many computers (often hacked ones) send huge amounts of traffic (like fake requests) to a server or website.
+
+	Goal: To overload the system so that real users can’t use it.
+
+	Simple Example: Imagine 1,000 people crowding into a shop door at once so real customers can’t enter.
+
+✅ SQL Injection Attack
+
+	Meaning: Hackers put malicious SQL code inside input boxes (like login forms, search bars) to trick the database.
+
+	Goal: To steal, change, or delete data from the database.
+
+	Simple Example: A shopkeeper asks for your name, and instead of just giving your name, you sneak in a secret command like “open the safe” — and the                           	shopkeeper listens!
+
+🔑 Difference
+
+DDoS = Attack on availability (makes systems slow or unavailable).
+
+SQL Injection = Attack on data (steals or manipulates information).
